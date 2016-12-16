@@ -1,5 +1,6 @@
 # Annexe 1 : tableau des exigences
 ## Exigences fonctionnelles
+### Exigences fonctionnelles principales
 
 |Référence|Désignation|Critère|Flexibilité|
 |---|---|---|---|
