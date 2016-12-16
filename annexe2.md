@@ -4,3 +4,4 @@
 |---|---|---|---|
 |CE1|Ne pas être toxique|Norme NF|Nulle|
 |CE2|Ne pas irriter|Norme NF|1%|
+|CE3|Ne pas irriter|Norme NF|1%|
